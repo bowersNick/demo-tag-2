@@ -1,0 +1,7 @@
+# Robots are going to change life:wq
+
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
