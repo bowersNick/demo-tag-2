@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+   Nick Bowers 
 
 # TECHNOLOGY COLOPHON
 
